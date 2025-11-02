@@ -31,15 +31,9 @@ import {
 const API_BASE = "http://localhost:8000";
 
 const SUBJECTS = [
-  "Mathematics",
-  "Physics",
-  "Chemistry",
-  "Biology",
-  "Computer Science",
-  "History",
-  "Literature",
-  "Economics",
-  "Other",
+  "Mathematics 2",
+  "Theory of Computation",
+  "Data Structures",
   "IOT",
   "DBMS"
 ];
